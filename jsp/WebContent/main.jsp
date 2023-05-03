@@ -1,4 +1,5 @@
-<%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
 <head>
@@ -6,8 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-jsp 프젝
-jsp 프젝
-dd
+main.jsp ( user1 )
 </body>
 </html>
